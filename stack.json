@@ -1,0 +1,6 @@
+{
+  "frontend": "React",
+  "backend": "Flask",
+  "db": "PostgreSQL",
+  "aws_region": "us-east-1"
+}
